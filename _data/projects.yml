@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: E-Commerce Website (Full-stack)
+  role: Primary Developer
+  duration: Mar. 2022 &mdash; May 2022 
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Established a full-stack responsive E-Commerce website with React, Django, and PostgreSQL. Implemented functionalities for user registration, cart, payments, rating, and review system. Utilized Redux to control application states and CSS media queries for advanced responsive design
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Notes & To-do List Application (Full-stack)        
+  role: Primary Developer
+  duration: Oct. 2021 &mdash; Nov. 2021
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: SBuilt a single-page notes & to-do list application using JavaScript, React, Redux, and Node.js. Designed and implemented RESTful APIs and data models with MongoDB. Containerized services by Docker and deployed application on Heroku.
